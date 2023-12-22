@@ -26,7 +26,7 @@ means <- colMeans(
 # UI ----------------------------------------------------------------------
 
 ui <- page_sidebar(
-  title = "Palmer Penguins dashboard",
+  title = "Palmer Penguins dashboard :)",
   sidebar = sidebar(
     varSelectInput(
       "color_by", "Color by", 
